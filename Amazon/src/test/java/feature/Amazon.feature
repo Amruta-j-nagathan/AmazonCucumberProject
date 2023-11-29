@@ -14,7 +14,7 @@ Feature: Test Amazon page I want to use this template for my feature file
 
     Examples: 
       | emailId              | password   |
-      | ajnagathan@gmail.com | Amruta@123 |
+      | demouser@gmail.com | demo@123 |
 
   Scenario: 
     Then I start searching item
